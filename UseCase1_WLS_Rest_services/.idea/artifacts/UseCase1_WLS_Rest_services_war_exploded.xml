@@ -4,13 +4,13 @@
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="UseCase1_WLS_Rest_services" />
+          <element id="module-output" name="UseCase_Test_WLS_Rest_services_example" />
         </element>
       </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/target/uc1-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       </element>
-      <element id="javaee-facet-resources" facet="UseCase1_WLS_Rest_services/web/Web" />
+      <element id="javaee-facet-resources" facet="UseCase_Test_WLS_Rest_services_example/web/Web" />
     </root>
   </artifact>
 </component>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UseCase1_WLS_Rest_services.iml" filepath="$PROJECT_DIR$/UseCase1_WLS_Rest_services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UseCase_Test_WLS_Rest_services_example.iml" filepath="$PROJECT_DIR$/UseCase_Test_WLS_Rest_services_example.iml" />
     </modules>
   </component>
 </project>
